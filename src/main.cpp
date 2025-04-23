@@ -35,13 +35,9 @@ int main(int argc, char *argv[]) {
     const char* portname = "/dev/ttyUSB0";
     SensorReader reader(portname);
 
-    if (!reader.openPort()) {
-        return 1;
-    }
-
     QApplication app(argc, argv);
     MainWindow mainWindow(&reader);
+    mainWindow.setWindowTitle("Dane Środowiskowe");
     mainWindow.show();
-
     return app.exec();
 }

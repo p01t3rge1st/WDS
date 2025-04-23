@@ -1,9 +1,9 @@
-<map id="main.cpp" name="main.cpp">
-<area shape="rect" id="Node000001" title="Główna funkcja programu." alt="" coords="427,5,509,31"/>
+<map id="src/main.cpp" name="src/main.cpp">
+<area shape="rect" id="Node000001" title="Główna funkcja programu." alt="" coords="415,5,521,31"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="5,79,85,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,28,286,49,99,81,99,76,285,44,426,23"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,29,276,51,99,81,98,76,276,45,415,24"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="109,79,173,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="427,30,187,81,186,76,426,25"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="416,32,187,81,186,76,415,27"/>
 <area shape="rect" id="Node000004" title=" " alt="" coords="197,79,264,104"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="431,33,278,79,276,74,429,28"/>
 <area shape="rect" id="Node000005" href="$SensorReader_8h_source.html" title=" " alt="" coords="339,152,461,177"/>
@@ -19,11 +19,11 @@
 <area shape="rect" id="Node000011" title=" " alt="" coords="667,79,741,104"/>
 <area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="507,28,654,72,653,77,505,33"/>
 <area shape="rect" id="Node000012" title=" " alt="" coords="765,79,824,104"/>
-<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="510,25,752,76,751,81,509,30"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="521,27,752,76,751,81,520,32"/>
 <area shape="rect" id="Node000013" title=" " alt="" coords="849,79,954,104"/>
-<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="510,23,836,76,835,81,509,28"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="521,25,836,76,835,81,521,30"/>
 <area shape="rect" id="Node000014" href="$MainWindow_8h_source.html" title=" " alt="" coords="977,79,1095,104"/>
-<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="510,21,702,43,964,76,963,81,701,48,509,26"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="521,22,712,44,964,76,963,81,711,49,520,28"/>
 <area shape="rect" id="Node000006" title=" " alt="" coords="371,225,429,251"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="403,178,403,212,397,212,397,178"/>
 <area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="386,180,331,219,328,215,383,175"/>
